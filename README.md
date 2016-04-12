@@ -1,5 +1,5 @@
 # www.odvolaniseprotirozsudku.vesperton.com
-Responsive site for Dancing Dragon Prague by Adam Michal from Prague
-
+Responsivní webová aplikace pro odvolání se proti rozsudku sp. zn. 1 T 108/2014 by Adam Michal from Prague, Czech
+![alt text](screenshots/screencaptureodvolaniseprotirozsudku.png "Odvolání se proti rozsudku sp. zn. 1 T 108/2014")
 
 ## Read License please https://github.com/Dancing-Dragon-Prague/www.dancingdragon.vesperton.com/blob/master/LICENSE.md
